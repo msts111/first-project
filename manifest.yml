@@ -2,6 +2,6 @@
 applications:
  - name: multi
    random-route: true
-   path: multi.html
-   memory: 256M
-   instances: 2
+   path: multi-html
+   memory: 512M
+   instances: 1
